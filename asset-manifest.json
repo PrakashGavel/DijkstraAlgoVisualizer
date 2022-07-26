@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DijkstraAlgoVisualizer/static/css/main.a0ab3751.chunk.css",
+    "main.js": "/DijkstraAlgoVisualizer/static/js/main.32eea865.chunk.js",
+    "main.js.map": "/DijkstraAlgoVisualizer/static/js/main.32eea865.chunk.js.map",
+    "runtime-main.js": "/DijkstraAlgoVisualizer/static/js/runtime-main.a67f9272.js",
+    "runtime-main.js.map": "/DijkstraAlgoVisualizer/static/js/runtime-main.a67f9272.js.map",
+    "static/js/2.8a22b016.chunk.js": "/DijkstraAlgoVisualizer/static/js/2.8a22b016.chunk.js",
+    "static/js/2.8a22b016.chunk.js.map": "/DijkstraAlgoVisualizer/static/js/2.8a22b016.chunk.js.map",
+    "index.html": "/DijkstraAlgoVisualizer/index.html",
+    "precache-manifest.02e65878e81a00316b36bc43ff13075d.js": "/DijkstraAlgoVisualizer/precache-manifest.02e65878e81a00316b36bc43ff13075d.js",
+    "service-worker.js": "/DijkstraAlgoVisualizer/service-worker.js",
+    "static/css/main.a0ab3751.chunk.css.map": "/DijkstraAlgoVisualizer/static/css/main.a0ab3751.chunk.css.map"
+  }
+}
